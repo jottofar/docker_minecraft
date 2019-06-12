@@ -1,4 +1,4 @@
-FROM rhel7:7-released
+FROM centos:latest
 LABEL maintainer="Jonathan Mainguy <jon@jmainguy.com>"
 LABEL version=0.0.1
 LABEL minecraft_version=1.13.2
